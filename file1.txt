@@ -1,1 +1,2 @@
 line 1 added for master
+line 2 added for new_brn
